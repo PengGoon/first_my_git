@@ -8,6 +8,7 @@
 		<style></style>
 	</head>
 	<body>
+		<h3>깃허브 가입을 축하합니다.</h3>
 		<ul>
 			<li>첫번재 리스트</li>
 			<li>두번재 리스트</li>
